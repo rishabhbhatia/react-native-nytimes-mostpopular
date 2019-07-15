@@ -1,0 +1,322 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticlesScreen article list footer component renders with showFooter false as expected 1`] = `null`;
+
+exports[`ArticlesScreen article list footer component renders with showFooter true as expected 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "height": 50,
+      "justifyContent": "center",
+      "width": "100%",
+    }
+  }
+>
+  <ActivityIndicator
+    animating={true}
+    color="#999999"
+    hidesWhenStopped={true}
+    size="small"
+  />
+</View>
+`;
+
+exports[`ArticlesScreen article list item seperator component renders as expected 1`] = `
+<View
+  style={
+    Object {
+      "marginTop": 15,
+    }
+  }
+/>
+`;
+
+exports[`ArticlesScreen article list render item renders with empty article value as expected 1`] = `
+<TouchableWithoutFeedback
+  onPress={[Function]}
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 0.2,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#969696",
+            "borderRadius": 20,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 0.6,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        ellipsizeMode="tail"
+        numberOfLines={2}
+        style={
+          Object {
+            "color": "#000000",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "textAlign": "left",
+          }
+        }
+      >
+        
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#9e9e9e",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "marginTop": 10,
+            "textAlign": "left",
+          }
+        }
+      >
+        
+      </Text>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "flex-end",
+            "marginTop": 2,
+          }
+        }
+      >
+        <Icon
+          allowFontScaling={false}
+          color="#969696"
+          name="calendar"
+          size={10}
+        />
+        <Text
+          style={
+            Object {
+              "color": "#9e9e9e",
+              "fontSize": 10,
+              "fontWeight": "400",
+              "marginLeft": 5,
+              "textAlign": "right",
+            }
+          }
+        >
+          
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 0.2,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Icon
+        allowFontScaling={false}
+        color="#c9c7c7"
+        name="chevron-right"
+        size={15}
+      />
+    </View>
+  </View>
+</TouchableWithoutFeedback>
+`;
+
+exports[`ArticlesScreen article list render item renders with valid article value as expected 1`] = `
+<TouchableWithoutFeedback
+  onPress={[Function]}
+>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 0.2,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#969696",
+            "borderRadius": 20,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 0.6,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        ellipsizeMode="tail"
+        numberOfLines={2}
+        style={
+          Object {
+            "color": "#000000",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "textAlign": "left",
+          }
+        }
+      >
+        Teenager Accused of Rape Deserves Leniency Because He’s From a ‘Good Family,’ Judge Says
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#9e9e9e",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "marginTop": 10,
+            "textAlign": "left",
+          }
+        }
+      >
+        By LUIS FERRÉ-SADURNÍ
+      </Text>
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "flex-end",
+            "marginTop": 2,
+          }
+        }
+      >
+        <Icon
+          allowFontScaling={false}
+          color="#969696"
+          name="calendar"
+          size={10}
+        />
+        <Text
+          style={
+            Object {
+              "color": "#9e9e9e",
+              "fontSize": 10,
+              "fontWeight": "400",
+              "marginLeft": 5,
+              "textAlign": "right",
+            }
+          }
+        >
+          2019-07-02
+        </Text>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 0.2,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Icon
+        allowFontScaling={false}
+        color="#c9c7c7"
+        name="chevron-right"
+        size={15}
+      />
+    </View>
+  </View>
+</TouchableWithoutFeedback>
+`;
+
+exports[`ArticlesScreen matches snapshot 1`] = `
+<SafeAreaView
+  style={
+    Object {
+      "backgroundColor": "rgb(250, 250, 250)",
+      "flex": 1,
+    }
+  }
+>
+  <FlatList
+    ItemSeparatorComponent={[Function]}
+    ListEmptyComponent={
+      <View
+        style={
+          Object {
+            "flex": 1,
+          }
+        }
+      >
+        <ActivityIndicator
+          animating={true}
+          color="#999999"
+          hidesWhenStopped={true}
+          size="large"
+        />
+      </View>
+    }
+    ListFooterComponent={[Function]}
+    contentContainerStyle={
+      Object {
+        "paddingVertical": 15,
+      }
+    }
+    data={Array []}
+    disableVirtualization={false}
+    horizontal={false}
+    initialNumToRender={10}
+    keyExtractor={[Function]}
+    maxToRenderPerBatch={10}
+    numColumns={1}
+    onEndReached={[Function]}
+    onEndReachedThreshold={2}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    showsVerticalScrollIndicator={false}
+    testID="articlesScreenList"
+    updateCellsBatchingPeriod={50}
+    windowSize={21}
+  />
+</SafeAreaView>
+`;

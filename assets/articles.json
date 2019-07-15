@@ -1,0 +1,2023 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1663,
+    "results": [
+        {
+            "url": "https://www.nytimes.com/2019/07/02/nyregion/judge-james-troiano-rape.html",
+            "adx_keywords": "Juvenile Delinquency;Decisions and Verdicts;Sex Crimes;Family Courts;Troiano, James;Silva, Marcia L;Monmouth County (NJ);Middlesex County  (NJ)",
+            "column": null,
+            "section": "New York",
+            "byline": "By LUIS FERRÉ-SADURNÍ",
+            "type": "Article",
+            "title": "Teenager Accused of Rape Deserves Leniency Because He’s From a ‘Good Family,’ Judge Says",
+            "abstract": "The family court judge also said the victim should have been told that pressing charges would destroy the accused’s life.",
+            "published_date": "2019-07-02",
+            "source": "The New York Times",
+            "id": 100000006591779,
+            "asset_id": 100000006591779,
+            "views": 1,
+            "des_facet": [
+                "JUVENILE DELINQUENCY",
+                "DECISIONS AND VERDICTS",
+                "SEX CRIMES"
+            ],
+            "org_facet": [
+                "FAMILY COURTS"
+            ],
+            "per_facet": [
+                "TROIANO, JAMES",
+                "SILVA, MARCIA L"
+            ],
+            "geo_facet": [
+                "MONMOUTH COUNTY (NJ)",
+                "MIDDLESEX COUNTY  (NJ)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/nyregion/02scoutrape1-promo/02scoutrape1-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/nyregion/02scoutrape1-promo/02scoutrape1-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/nyregion/02scoutrape1-promo/02scoutrape1-articleInline-v5.jpg",
+                            "format": "Normal",
+                            "height": 68,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/nyregion/02scoutrape1-promo/02scoutrape1-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/nyregion/02scoutrape1-promo/02scoutrape1-jumbo-v5.jpg",
+                            "format": "Jumbo",
+                            "height": 367,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/nyregion/02scoutrape1-promo/02scoutrape1-superJumbo-v5.jpg",
+                            "format": "superJumbo",
+                            "height": 733,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/nyregion/02scoutrape1-promo/02scoutrape1-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/nyregion/02scoutrape1-promo/02scoutrape1-thumbLarge-v3.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/nyregion/02scoutrape1-promo/02scoutrape1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/nyregion/02scoutrape1-promo/02scoutrape1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2019/07/03/us/us-citizenship-test-quiz.html",
+            "adx_keywords": "Citizenship and Naturalization;Citizenship and Immigration Services (US);Independence Day (US) (July 4);Immigration and Emigration;United States Politics and Government",
+            "column": "",
+            "section": "U.S.",
+            "byline": "By NICHOLAS BOGEL-BURROUGHS",
+            "type": "Interactive",
+            "title": "Fourth of July Quiz: Can You Answer the Hardest Citizenship Test Questions?",
+            "abstract": "Thousands of people will become American citizens around Independence Day. But first they had to pass a citizenship test. Could you do the same?",
+            "published_date": "2019-07-03",
+            "source": "The New York Times",
+            "id": 100000006592819,
+            "asset_id": 100000006592819,
+            "views": 2,
+            "des_facet": [
+                "CITIZENSHIP AND NATURALIZATION"
+            ],
+            "org_facet": [
+                "CITIZENSHIP AND IMMIGRATION SERVICES (US)",
+                "INDEPENDENCE DAY (US) (JULY 4)",
+                "IMMIGRATION AND EMIGRATION",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A naturalization ceremony in Los Angeles last year.",
+                    "copyright": "Mario Tama/Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/us/00citizenship-quiz/00citizenship-quiz-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/us/00citizenship-quiz/00citizenship-quiz-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/us/00citizenship-quiz/00citizenship-quiz-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/us/00citizenship-quiz/00citizenship-quiz-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/us/00citizenship-quiz/00citizenship-quiz-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/us/00citizenship-quiz/00citizenship-quiz-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/us/00citizenship-quiz/00citizenship-quiz-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/us/00citizenship-quiz/00citizenship-quiz-thumbLarge-v2.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/us/00citizenship-quiz/00citizenship-quiz-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/us/00citizenship-quiz/00citizenship-quiz-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/01/health/medical-myths-doctors.html",
+            "adx_keywords": "Medicine and Health;Doctors;Asthma;Allergies;Peanuts;Pregnancy and Childbirth;Testosterone;Babies and Infants;Memory;Omega-3 Fatty Acids;Oils and Fats;Clinical Trials;Knees;Physical Therapy;Journal of the American Medical Assn;Teenage Pregnancy;New England Journal of Medicine;Lancet, The (Journal);your-feed-healthcare;your-feed-science",
+            "column": null,
+            "section": "Health",
+            "byline": "By GINA KOLATA",
+            "type": "Article",
+            "title": "10 Findings That Contradict Medical Wisdom. Doctors, Take Note.",
+            "abstract": "Researchers identified nearly 400 common medical practices and theories that were contradicted by rigorous studies. Here are some of the most notable findings.",
+            "published_date": "2019-07-01",
+            "source": "The New York Times",
+            "id": 100000006559277,
+            "asset_id": 100000006559277,
+            "views": 3,
+            "des_facet": [
+                "MEDICINE AND HEALTH",
+                "ASTHMA",
+                "ALLERGIES",
+                "PEANUTS",
+                "TESTOSTERONE",
+                "KNEES",
+                "TEENAGE PREGNANCY",
+                "YOUR-FEED-HEALTHCARE",
+                "YOUR-FEED-SCIENCE"
+            ],
+            "org_facet": [
+                "DOCTORS",
+                "PREGNANCY AND CHILDBIRTH",
+                "BABIES AND INFANTS",
+                "MEMORY",
+                "OMEGA-3 FATTY ACIDS",
+                "OILS AND FATS",
+                "CLINICAL TRIALS",
+                "PHYSICAL THERAPY",
+                "JOURNAL OF THE AMERICAN MEDICAL ASSN",
+                "NEW ENGLAND JOURNAL OF MEDICINE",
+                "LANCET, THE (JOURNAL)"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ingo Fast",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/science/02MYTHS/02MYTHS-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/science/02MYTHS/02MYTHS-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/science/02MYTHS/02MYTHS-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 152,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/science/02MYTHS/02MYTHS-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/science/02MYTHS/merlin_157160115_deba18a3-da59-4cd9-9985-0ecce6463b81-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 874,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/science/02MYTHS/merlin_157160115_deba18a3-da59-4cd9-9985-0ecce6463b81-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1748,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/science/02MYTHS/02MYTHS-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/science/02MYTHS/02MYTHS-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/science/02MYTHS/02MYTHS-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/science/02MYTHS/02MYTHS-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/06/nyregion/jeffrey-epstein-arrested-sex-trafficking.html",
+            "adx_keywords": "Epstein, Jeffrey E (1953- );Sex Crimes;Child Abuse and Neglect;Human Trafficking",
+            "column": null,
+            "section": "New York",
+            "byline": "By PATRICIA MAZZEI and WILLIAM K. RASHBAUM",
+            "type": "Article",
+            "title": "Jeffrey Epstein, Billionaire Long Accused of Molesting Minors, Is Charged",
+            "abstract": "Mr. Epstein, who was charged with sex trafficking, had avoided federal charges a decade ago in a widely criticized plea deal.",
+            "published_date": "2019-07-06",
+            "source": "The New York Times",
+            "id": 100000006599357,
+            "asset_id": 100000006599357,
+            "views": 4,
+            "des_facet": [
+                "CHILD ABUSE AND NEGLECT",
+                "HUMAN TRAFFICKING"
+            ],
+            "org_facet": [
+                "SEX CRIMES"
+            ],
+            "per_facet": [
+                "EPSTEIN, JEFFREY E (1953- )"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Jeffrey Epstein in custody in West Palm Beach, Fla., in 2008.",
+                    "copyright": "Uma Sanghvi/Palm Beach Post, via Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/06epstein-print/06epstein1-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/06epstein-print/06epstein1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/06epstein-print/06epstein1-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/06epstein-print/06epstein1-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/06epstein-print/06epstein1-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/06epstein-print/06epstein1-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/06epstein-print/06epstein1-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/06epstein-print/06epstein1-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/06epstein-print/06epstein1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/06epstein-print/06epstein1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/08/nyregion/jeffrey-epstein-charges.html",
+            "adx_keywords": "Epstein, Jeffrey E (1953- );Child Abuse and Neglect;#MeToo Movement;Sex Crimes;Human Trafficking;Upper East Side (Manhattan, NY)",
+            "column": null,
+            "section": "New York",
+            "byline": "By ALI WATKINS",
+            "type": "Article",
+            "title": "Jeffrey Epstein: Seizure of Photos of Nude Girls Deepens Questions About Earlier Deal",
+            "abstract": "The new indictment of the financier could prompt a reckoning for the Justice Department, which has been accused of mishandling the 2008 case.",
+            "published_date": "2019-07-08",
+            "source": "The New York Times",
+            "id": 100000006600199,
+            "asset_id": 100000006600199,
+            "views": 5,
+            "des_facet": [
+                "CHILD ABUSE AND NEGLECT",
+                "#METOO MOVEMENT"
+            ],
+            "org_facet": [
+                "SEX CRIMES",
+                "HUMAN TRAFFICKING"
+            ],
+            "per_facet": [
+                "EPSTEIN, JEFFREY E (1953- )"
+            ],
+            "geo_facet": [
+                "UPPER EAST SIDE (MANHATTAN, NY)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "&ldquo;The alleged behavior shocks the conscience,&rdquo; said Geoffrey S. Berman, the United States attorney in Manhattan, during a news conference on the Jeffrey Epstein case.",
+                    "copyright": "Jefferson Siegel for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein1-print/08epstein01-promo-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein1-print/08epstein01-promo-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein1-print/08epstein01-promo-articleInline-v2.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein1-print/08epstein01-promo-sfSpan-v2.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein1-print/08epstein01-promo-jumbo-v2.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein1-print/08epstein01-promo-superJumbo-v2.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein1-print/08epstein01-promo-square640-v2.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein1-print/08epstein01-promo-thumbLarge-v2.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein1-print/08epstein01-promo-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein1-print/08epstein01-promo-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2019/07/06/us/migrants-border-patrol-clint.html",
+            "adx_keywords": "Immigration Detention;Children and Childhood;Clint (Tex);Border Patrol (US);Customs and Border Protection (US);United States Politics and Government;Trump, Donald J",
+            "column": "",
+            "section": "U.S.",
+            "byline": "By SIMON ROMERO, ZOLAN KANNO-YOUNGS, MANNY FERNANDEZ, DANIEL BORUNDA, AARON MONTES and CAITLIN DICKERSON",
+            "type": "Interactive",
+            "title": "Hungry, Scared and Sick: Inside the Migrant Detention Center in Clint, Tex.",
+            "abstract": "An out-of-the-way border station in the desert outside of El Paso has become the epicenter of outrage over the Trump administration’s policies on the southwest border.",
+            "published_date": "2019-07-06",
+            "source": "The New York Times",
+            "id": 100000006598808,
+            "asset_id": 100000006598808,
+            "views": 6,
+            "des_facet": [
+                "CHILDREN AND CHILDHOOD"
+            ],
+            "org_facet": [
+                "IMMIGRATION DETENTION",
+                "BORDER PATROL (US)",
+                "CUSTOMS AND BORDER PROTECTION (US)",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": [
+                "CLINT (TEX)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A little-known Border Patrol station in Clint, Tex., has become the public face of the chaos on America&rsquo;s southern border, after lawyers reported seeing filthy, overcrowded conditions for migrant children there.",
+                    "copyright": "Ilana Panich-Linsman for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/us/07clint-p1/00clint-01-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/us/07clint-p1/00clint-01-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/us/07clint-p1/00clint-01-articleInline-v2.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/us/07clint-p1/merlin_157452141_35556aff-1a2e-4fce-8149-44a0ca5e6ad1-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/us/07clint-p1/merlin_157452141_35556aff-1a2e-4fce-8149-44a0ca5e6ad1-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/us/07clint-p1/merlin_157452141_35556aff-1a2e-4fce-8149-44a0ca5e6ad1-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/us/07clint-p1/00clint-01-square640-v2.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/us/07clint-p1/00clint-01-thumbLarge-v2.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/us/07clint-p1/merlin_157452141_35556aff-1a2e-4fce-8149-44a0ca5e6ad1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/us/07clint-p1/merlin_157452141_35556aff-1a2e-4fce-8149-44a0ca5e6ad1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/02/opinion/ivanka-jared-trump-nepotism.html",
+            "adx_keywords": "United States Politics and Government;Trump, Ivanka;Kushner, Jared;Trump, Donald J;United States International Relations;Korean Demilitarized Zone",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By FRANK BRUNI",
+            "type": "Article",
+            "title": "Oh, to Be Ivanka!",
+            "abstract": "So many hot spots, so little time.",
+            "published_date": "2019-07-02",
+            "source": "The New York Times",
+            "id": 100000006592111,
+            "asset_id": 100000006592111,
+            "views": 7,
+            "des_facet": [
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "UNITED STATES INTERNATIONAL RELATIONS"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "TRUMP, IVANKA",
+                "KUSHNER, JARED",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": [
+                "KOREAN DEMILITARIZED ZONE"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Ivanka Trump in South Korea on Sunday.",
+                    "copyright": "Kevin Lamarque/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/opinion/02bruniWeb/02bruniWeb-square320-v2.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/opinion/02bruniWeb/02bruniWeb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/opinion/02bruniWeb/02bruniWeb-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 404,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/opinion/02bruniWeb/02bruniWeb-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/opinion/02bruniWeb/02bruniWeb-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 1024,
+                            "width": 483
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/opinion/02bruniWeb/02bruniWeb-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 2048,
+                            "width": 965
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/opinion/02bruniWeb/02bruniWeb-square640-v2.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/opinion/02bruniWeb/02bruniWeb-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/opinion/02bruniWeb/02bruniWeb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/04/opinion/02bruniWeb/02bruniWeb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/05/nyregion/marianne-williamson.html",
+            "adx_keywords": "Williamson, Marianne;Presidential Election of 2020;Occult Sciences;Religion and Belief;Trump, Donald J;New York City;A Course in Miracles (Book);Schucman, Helen;Books and Literature",
+            "column": null,
+            "section": "New York",
+            "byline": "By SAM KESTENBAUM",
+            "type": "Article",
+            "title": "The Curious Mystical Text Behind Marianne Williamson’s Presidential Bid",
+            "abstract": "The New Age author was drawn to an esoteric bible in the 1970s. It  made her a self-help megastar. And now it has gone mainstream.",
+            "published_date": "2019-07-05",
+            "source": "The New York Times",
+            "id": 100000006589610,
+            "asset_id": 100000006589610,
+            "views": 8,
+            "des_facet": [
+                "RELIGION AND BELIEF",
+                "BOOKS AND LITERATURE"
+            ],
+            "org_facet": [
+                "PRESIDENTIAL ELECTION OF 2020",
+                "OCCULT SCIENCES"
+            ],
+            "per_facet": [
+                "WILLIAMSON, MARIANNE",
+                "TRUMP, DONALD J",
+                "SCHUCMAN, HELEN"
+            ],
+            "geo_facet": [
+                "NEW YORK CITY"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Supporters of Marianne Williamson at a watch party of the Democratic debates, hosted by Sylvia Snow (left) and Shane Snow.",
+                    "copyright": "Holly Pickett for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/07marianne1/07marianne1-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/07marianne1/07marianne1-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/07marianne1/07marianne1-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 128,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/07marianne1/07marianne1-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/07marianne1/07marianne1-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 691,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/07marianne1/07marianne1-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1382,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/07marianne1/07marianne1-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/07marianne1/07marianne1-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/07marianne1/07marianne1-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/nyregion/07marianne1/07marianne1-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/03/us/charges-dropped-alabama-woman-pregnant.html",
+            "adx_keywords": "Jones, Marshae;Jemison, Ebony;Alabama;Pleasant Grove (Ala);Murders, Attempted Murders and Homicides;Abortion;Law and Legislation",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By FARAH STOCKMAN",
+            "type": "Article",
+            "title": "Manslaughter Charge Dropped Against Alabama Woman Who Was Shot While Pregnant",
+            "abstract": "The case of Marshae Jones, who was indicted over the death of the fetus she was carrying when she was shot, had stirred outrage across the country.",
+            "published_date": "2019-07-03",
+            "source": "The New York Times",
+            "id": 100000006589840,
+            "asset_id": 100000006589840,
+            "views": 9,
+            "des_facet": [
+                "MURDERS, ATTEMPTED MURDERS AND HOMICIDES",
+                "ABORTION",
+                "LAW AND LEGISLATION"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "JONES, MARSHAE",
+                "JEMISON, EBONY"
+            ],
+            "geo_facet": [
+                "ALABAMA",
+                "PLEASANT GROVE (ALA)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Marshae Jones in a photo provided by her family.",
+                    "copyright": "",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/00alabamahfo/00alabamahfo-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/00alabamahfo/00alabamahfo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/00alabamahfo/merlin_157264323_2feba37d-38ca-4cf6-9021-d2cf357f16d2-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 253,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/00alabamahfo/00alabamahfo-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/00alabamahfo/merlin_157264323_2feba37d-38ca-4cf6-9021-d2cf357f16d2-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 1024,
+                            "width": 769
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/00alabamahfo/merlin_157264323_2feba37d-38ca-4cf6-9021-d2cf357f16d2-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 2048,
+                            "width": 1537
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/00alabamahfo/00alabamahfo-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/00alabamahfo/00alabamahfo-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/00alabamahfo/00alabamahfo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/00alabamahfo/00alabamahfo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/03/well/move/weight-loss-gain-exercise.html",
+            "adx_keywords": "Exercise;Weight;Calories",
+            "column": "Phys Ed",
+            "section": "Well",
+            "byline": "By GRETCHEN REYNOLDS",
+            "type": "Article",
+            "title": "Why So Many of Us Don’t Lose Weight When We Exercise",
+            "abstract": "Most of us eat more when we exercise, and though it may be just a few extra bites a day, the result is weight gain.",
+            "published_date": "2019-07-03",
+            "source": "The New York Times",
+            "id": 100000006592812,
+            "asset_id": 100000006592812,
+            "views": 10,
+            "des_facet": [
+                "EXERCISE",
+                "WEIGHT",
+                "CALORIES"
+            ],
+            "org_facet": "",
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Jeenah Moon for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/well/physed-eat/physed-eat-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/well/physed-eat/physed-eat-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/well/physed-eat/merlin_144279504_d6ec81af-e40a-4a59-b6f7-f8cdbbd47470-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/well/physed-eat/merlin_144279504_d6ec81af-e40a-4a59-b6f7-f8cdbbd47470-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/well/physed-eat/merlin_144279504_d6ec81af-e40a-4a59-b6f7-f8cdbbd47470-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/well/physed-eat/merlin_144279504_d6ec81af-e40a-4a59-b6f7-f8cdbbd47470-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/well/physed-eat/physed-eat-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/well/physed-eat/physed-eat-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/well/physed-eat/merlin_144279504_d6ec81af-e40a-4a59-b6f7-f8cdbbd47470-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/well/physed-eat/merlin_144279504_d6ec81af-e40a-4a59-b6f7-f8cdbbd47470-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/06/opinion/sunday/nancy-pelosi-pride-parade.html",
+            "adx_keywords": "Pelosi, Nancy;Democratic Party;House of Representatives;United States Politics and Government;Women and Girls;Liberalism (US Politics);Trump, Donald J",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By MAUREEN DOWD",
+            "type": "Article",
+            "title": "It’s Nancy Pelosi’s Parade",
+            "abstract": "“If the left doesn’t think I’m left enough, so be it,” she told me.",
+            "published_date": "2019-07-06",
+            "source": "The New York Times",
+            "id": 100000006598470,
+            "asset_id": 100000006598470,
+            "views": 11,
+            "des_facet": [
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "DEMOCRATIC PARTY",
+                "HOUSE OF REPRESENTATIVES",
+                "WOMEN AND GIRLS",
+                "LIBERALISM (US POLITICS)"
+            ],
+            "per_facet": [
+                "PELOSI, NANCY",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Illustration by Jimmy Turrell, photographs by Nolwen Cifuentes; Doug Mills and Sarah Silbiger/The New York Times; Tom Brenner and Anthony Lanzilote for The New York Times; and ImageSource/Digitalvision, via Getty Images",
+                    "copyright": "",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/opinion/sunday/07Dowd/07Dowd-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/opinion/sunday/07Dowd/07Dowd-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/opinion/sunday/07Dowd/05737e662f8346b096ac926af3c454ee-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 242,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/opinion/sunday/07Dowd/05737e662f8346b096ac926af3c454ee-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/opinion/sunday/07Dowd/05737e662f8346b096ac926af3c454ee-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 1024,
+                            "width": 805
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/opinion/sunday/07Dowd/05737e662f8346b096ac926af3c454ee-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 2048,
+                            "width": 1609
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/opinion/sunday/07Dowd/07Dowd-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/opinion/sunday/07Dowd/07Dowd-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/opinion/sunday/07Dowd/05737e662f8346b096ac926af3c454ee-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/07/opinion/sunday/07Dowd/05737e662f8346b096ac926af3c454ee-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/02/us/navy-seal-trial-verdict.html",
+            "adx_keywords": "United States Defense and Military Forces;War Crimes, Genocide and Crimes Against Humanity;Navy Seals;Gallagher, Edward (1979- );Islamic State in Iraq and Syria (ISIS);Iraq War (2003-11);Iraq;Decisions and Verdicts",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By DAVE PHILIPPS",
+            "type": "Article",
+            "title": "Navy SEAL Chief Accused of War Crimes Is Found Not Guilty of Murder",
+            "abstract": "The chief was convicted of a single charge for posing with the dead body of an ISIS captive.",
+            "published_date": "2019-07-02",
+            "source": "The New York Times",
+            "id": 100000006591173,
+            "asset_id": 100000006591173,
+            "views": 12,
+            "des_facet": [
+                "UNITED STATES DEFENSE AND MILITARY FORCES",
+                "IRAQ WAR (2003-11)",
+                "DECISIONS AND VERDICTS"
+            ],
+            "org_facet": [
+                "WAR CRIMES, GENOCIDE AND CRIMES AGAINST HUMANITY",
+                "NAVY SEALS",
+                "ISLAMIC STATE IN IRAQ AND SYRIA (ISIS)"
+            ],
+            "per_facet": [
+                "GALLAGHER, EDWARD (1979- )"
+            ],
+            "geo_facet": [
+                "IRAQ"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Navy SEAL Special Operations Chief Edward Gallagher with his wife, Andrea Gallagher, at Naval Base San Diego on Tuesday.",
+                    "copyright": "John Gastaldo/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/us/00gallagher-today/merlin_157367421_7b4aa9a3-668e-43d8-883b-6fa2bafb9f8d-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/us/00gallagher-today/merlin_157367421_7b4aa9a3-668e-43d8-883b-6fa2bafb9f8d-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/us/00gallagher-today/merlin_157367421_7b4aa9a3-668e-43d8-883b-6fa2bafb9f8d-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 124,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/us/00gallagher-today/00gallagher-today-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/us/00gallagher-today/merlin_157367421_7b4aa9a3-668e-43d8-883b-6fa2bafb9f8d-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 666,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/us/00gallagher-today/merlin_157367421_7b4aa9a3-668e-43d8-883b-6fa2bafb9f8d-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1332,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/us/00gallagher-today/merlin_157367421_7b4aa9a3-668e-43d8-883b-6fa2bafb9f8d-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/us/00gallagher-today/merlin_157367421_7b4aa9a3-668e-43d8-883b-6fa2bafb9f8d-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/us/00gallagher-today/00gallagher-today-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/02/us/00gallagher-today/00gallagher-today-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/01/sports/cori-gauff-venus-williams-wimbledon.html",
+            "adx_keywords": "Wimbledon Tennis Tournament;Tennis;Gauff, Cori (2004- );Williams, Venus",
+            "column": "On Tennis",
+            "section": "Sports",
+            "byline": "By CHRISTOPHER CLAREY",
+            "type": "Article",
+            "title": "Cori Gauff, 15, Seizes Her Moment, Upsetting Venus Williams at Wimbledon",
+            "abstract": "Gauff, the youngest player in the draw, beat the oldest, her 39-year-old idol, in a changing-of-the-guard match.",
+            "published_date": "2019-07-01",
+            "source": "The New York Times",
+            "id": 100000006590232,
+            "asset_id": 100000006590232,
+            "views": 13,
+            "des_facet": [
+                "WIMBLEDON TENNIS TOURNAMENT",
+                "TENNIS"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "GAUFF, CORI (2004- )",
+                "WILLIAMS, VENUS"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Cori Gauff, the youngest qualifier in Wimbleon’s history, won her first-round match against Venus Williams, a five-time singles champion at the tournament.",
+                    "copyright": "Toby Melville/Reuters",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/sports/01clarey-react/merlin_157317636_ee1b4103-136d-4538-b347-7e7a882cead9-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/sports/01clarey-react/merlin_157317636_ee1b4103-136d-4538-b347-7e7a882cead9-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/sports/01clarey-react/merlin_157317636_ee1b4103-136d-4538-b347-7e7a882cead9-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 132,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/sports/01clarey-react/merlin_157317636_ee1b4103-136d-4538-b347-7e7a882cead9-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/sports/01clarey-react/merlin_157317636_ee1b4103-136d-4538-b347-7e7a882cead9-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 710,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/sports/01clarey-react/merlin_157317636_ee1b4103-136d-4538-b347-7e7a882cead9-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1420,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/sports/01clarey-react/merlin_157317636_ee1b4103-136d-4538-b347-7e7a882cead9-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/sports/01clarey-react/merlin_157317636_ee1b4103-136d-4538-b347-7e7a882cead9-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/sports/01clarey-react/merlin_157317636_ee1b4103-136d-4538-b347-7e7a882cead9-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/sports/01clarey-react/merlin_157317636_ee1b4103-136d-4538-b347-7e7a882cead9-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/03/us/politics/census-citizenship-question.html",
+            "adx_keywords": "Census;Citizenship and Naturalization;Justice Department;Trump, Donald J;Ross, Wilbur L Jr;Commerce Department;Population;United States Politics and Government;Supreme Court (US)",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MICHAEL WINES, MAGGIE HABERMAN and ALAN RAPPEPORT",
+            "type": "Article",
+            "title": "Justice Dept. Reverses Course on Citizenship Question on Census, Citing Trump’s Orders",
+            "abstract": "The president contradicted statements by his Justice and Commerce Departments that census forms were being printed without the question and they would heed a court ruling.",
+            "published_date": "2019-07-03",
+            "source": "The New York Times",
+            "id": 100000006594455,
+            "asset_id": 100000006594455,
+            "views": 14,
+            "des_facet": [
+                "CENSUS",
+                "CITIZENSHIP AND NATURALIZATION",
+                "POPULATION",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "JUSTICE DEPARTMENT",
+                "COMMERCE DEPARTMENT",
+                "SUPREME COURT (US)"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "ROSS, WILBUR L JR"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Demonstrators outside the Supreme Court last week. The justices gave a limited ruling on the Trump administration effort to add a citizenship question to the 2020 census.",
+                    "copyright": "J. Scott Applewhite/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/03/us/03dc-census/03dc-census-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/03/us/03dc-census/03dc-census-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/03/us/03dc-census/merlin_157376691_5277ace4-6fd3-4cab-b1ab-e833e786440d-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 124,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/03/us/03dc-census/03dc-census-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/03/us/03dc-census/merlin_157376691_5277ace4-6fd3-4cab-b1ab-e833e786440d-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 670,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/03/us/03dc-census/merlin_157376691_5277ace4-6fd3-4cab-b1ab-e833e786440d-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1340,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/03/us/03dc-census/03dc-census-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/03/us/03dc-census/03dc-census-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/03/us/03dc-census/03dc-census-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/03/us/03dc-census/03dc-census-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/03/15/arts/television/netflix-originals.html",
+            "adx_keywords": "Television;Netflix Inc;Russian Doll (TV Program);Sex Education (TV Program);Patriot Act (TV Program);Bodyguard (TV Program)",
+            "column": null,
+            "section": "Arts",
+            "byline": "By LARA ZARUM",
+            "type": "Article",
+            "title": "10 Recent Netflix Originals Worth Your Time",
+            "abstract": "Whether you’re looking for a new reality dating show, an irreverent comedy or a broody British thriller, here’s our pick of the best recent titles.",
+            "published_date": "2019-03-15",
+            "source": "The New York Times",
+            "id": 100000006410337,
+            "asset_id": 100000006410337,
+            "views": 15,
+            "des_facet": [
+                "TELEVISION"
+            ],
+            "org_facet": [
+                "NETFLIX INC"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Clockwise from top left: Natasha Lyonne in “Russian Doll,” “The Haunting of Hill House,” Elizabeth Lail and Penn Badgley in “You” and contestants on “Dating Around.”",
+                    "copyright": "Netflix",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/03/15/arts/15NETFLIX-LEAD/15NETFLIX-LEAD-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/03/15/arts/15NETFLIX-LEAD/15NETFLIX-LEAD-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/03/15/arts/15NETFLIX-LEAD/15NETFLIX-LEAD-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/03/15/arts/15NETFLIX-LEAD/15NETFLIX-LEAD-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/03/15/arts/15NETFLIX-LEAD/15NETFLIX-LEAD-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/03/15/arts/15NETFLIX-LEAD/15NETFLIX-LEAD-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1366,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/03/15/arts/15NETFLIX-LEAD/15NETFLIX-LEAD-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/03/15/arts/15NETFLIX-LEAD/15NETFLIX-LEAD-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/03/15/arts/15NETFLIX-LEAD/15NETFLIX-LEAD-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/03/15/arts/15NETFLIX-LEAD/15NETFLIX-LEAD-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/06/29/us/dog-food-heart-disease-fda.html",
+            "adx_keywords": "Dogs;Pet Foods;Heart;Labeling and Labels (Product);Veterinary Medicine;Food and Drug Administration",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By SANDRA E. GARCIA",
+            "type": "Article",
+            "title": "F.D.A. Names 16 Brands of Dog Food That May Be Linked to Canine Heart Disease",
+            "abstract": "Most of the dog foods identified in the new F.D.A. report, the latest in a monthslong investigation, contain peas, lentils and other grain alternatives.",
+            "published_date": "2019-06-29",
+            "source": "The New York Times",
+            "id": 100000006587536,
+            "asset_id": 100000006587536,
+            "views": 16,
+            "des_facet": [
+                "DOGS",
+                "HEART"
+            ],
+            "org_facet": [
+                "PET FOODS",
+                "LABELING AND LABELS (PRODUCT)",
+                "VETERINARY MEDICINE",
+                "FOOD AND DRUG ADMINISTRATION"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Several brands of “grain-free” dog food have been linked to canine heart disease, the F.D.A. found after a monthslong investigation.",
+                    "copyright": "Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/29xp-dogfood/29xp-dogfood-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/29xp-dogfood/29xp-dogfood-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/29xp-dogfood/c02e165e454c45ee8de2587647c5cd4c-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/29xp-dogfood/c02e165e454c45ee8de2587647c5cd4c-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/29xp-dogfood/c02e165e454c45ee8de2587647c5cd4c-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/29xp-dogfood/c02e165e454c45ee8de2587647c5cd4c-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/29xp-dogfood/29xp-dogfood-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/29xp-dogfood/29xp-dogfood-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/29xp-dogfood/29xp-dogfood-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/us/29xp-dogfood/29xp-dogfood-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/03/us/politics/trump-military-tanks.html",
+            "adx_keywords": "Trump, Donald J;Independence Day (US) (July 4);Parades;United States Defense and Military Forces;Defense Department;Washington (DC);United States Politics and Government",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MICHAEL D. SHEAR and THOMAS GIBBONS-NEFF",
+            "type": "Article",
+            "title": "Washington Prepares for a July 4 Spectacle, Starring and Produced by President Trump",
+            "abstract": "The president has ordered the last-minute transformation of the traditional July 4 activities into what he calls “a celebration of America” and that critics call a celebration of Donald J. Trump.",
+            "published_date": "2019-07-03",
+            "source": "The New York Times",
+            "id": 100000006594395,
+            "asset_id": 100000006594395,
+            "views": 17,
+            "des_facet": [
+                "UNITED STATES DEFENSE AND MILITARY FORCES",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "INDEPENDENCE DAY (US) (JULY 4)",
+                "PARADES",
+                "DEFENSE DEPARTMENT"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": [
+                "WASHINGTON (DC)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A scene from the National Mall during Independence Day celebrations on Thursday.",
+                    "copyright": "Melissa Lyttle for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/08/03/multimedia/03dc-rally-PROMO2/03dc-rally-PROMO2-square320-v3.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/08/03/multimedia/03dc-rally-PROMO2/03dc-rally-PROMO2-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/08/03/multimedia/03dc-rally-PROMO2/03dc-rally-PROMO2-articleInline-v2.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/08/03/multimedia/03dc-rally-PROMO2/03dc-rally-PROMO2-sfSpan-v3.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/08/03/multimedia/03dc-rally-PROMO2/03dc-rally-PROMO2-jumbo-v2.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/08/03/multimedia/03dc-rally-PROMO2/03dc-rally-PROMO2-superJumbo-v2.jpg",
+                            "format": "superJumbo",
+                            "height": 1366,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/08/03/multimedia/03dc-rally-PROMO2/03dc-rally-PROMO2-square640-v3.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/08/03/multimedia/03dc-rally-PROMO2/03dc-rally-PROMO2-thumbLarge-v3.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/08/03/multimedia/03dc-rally-PROMO2/03dc-rally-PROMO2-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/08/03/multimedia/03dc-rally-PROMO2/03dc-rally-PROMO2-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/07/nyregion/jeffrey-epstein-trump.html",
+            "adx_keywords": "Epstein, Jeffrey E (1953- );Human Trafficking;Child Abuse and Neglect;Sex Crimes;Women and Girls;Suits and Litigation (Civil);Acosta, R Alexander;Ethics and Official Misconduct;Federal Bureau of Investigation;Justice Department;Mar-a-Lago (Palm Beach, Fla);Trump, Donald J;Florida;Miami (Fla);New York State;Upper East Side (Manhattan, NY);United States Politics and Government;Giuffre, Virginia Roberts",
+            "column": null,
+            "section": "New York",
+            "byline": "By VIVIAN WANG",
+            "type": "Article",
+            "title": "Why the Trump White House Is Caught Up in the Jeffrey Epstein Scandal",
+            "abstract": "In the years since Mr. Epstein was first accused of sexually abusing minors, one of Mr. Trump’s Cabinet officials has been accused of letting him off easy.",
+            "published_date": "2019-07-07",
+            "source": "The New York Times",
+            "id": 100000006599712,
+            "asset_id": 100000006599712,
+            "views": 18,
+            "des_facet": [
+                "HUMAN TRAFFICKING",
+                "CHILD ABUSE AND NEGLECT",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "SEX CRIMES",
+                "WOMEN AND GIRLS",
+                "SUITS AND LITIGATION (CIVIL)",
+                "ETHICS AND OFFICIAL MISCONDUCT",
+                "FEDERAL BUREAU OF INVESTIGATION",
+                "JUSTICE DEPARTMENT",
+                "MAR-A-LAGO (PALM BEACH, FLA)"
+            ],
+            "per_facet": [
+                "EPSTEIN, JEFFREY E (1953- )",
+                "ACOSTA, R ALEXANDER",
+                "TRUMP, DONALD J",
+                "GIUFFRE, VIRGINIA ROBERTS"
+            ],
+            "geo_facet": [
+                "FLORIDA",
+                "MIAMI (FLA)",
+                "NEW YORK STATE",
+                "UPPER EAST SIDE (MANHATTAN, NY)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Gabriella Demczuk for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein2-print/merlin_157015107_d750e4be-6731-479f-bff4-a14f69c65ad7-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein2-print/merlin_157015107_d750e4be-6731-479f-bff4-a14f69c65ad7-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein2-print/merlin_157015107_d750e4be-6731-479f-bff4-a14f69c65ad7-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein2-print/merlin_157015107_d750e4be-6731-479f-bff4-a14f69c65ad7-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein2-print/merlin_157015107_d750e4be-6731-479f-bff4-a14f69c65ad7-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein2-print/merlin_157015107_d750e4be-6731-479f-bff4-a14f69c65ad7-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein2-print/merlin_157015107_d750e4be-6731-479f-bff4-a14f69c65ad7-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein2-print/merlin_157015107_d750e4be-6731-479f-bff4-a14f69c65ad7-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein2-print/merlin_157015107_d750e4be-6731-479f-bff4-a14f69c65ad7-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/09/nyregion/09epstein2-print/merlin_157015107_d750e4be-6731-479f-bff4-a14f69c65ad7-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/01/opinion/2020-democrats-taxes.html",
+            "adx_keywords": "Federal Taxes (US);Democratic Party;Republican Party;Trump, Donald J;Presidential Election of 2020;United States Politics and Government",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By PAUL KRUGMAN",
+            "type": "Article",
+            "title": "The Moochers of Middle America",
+            "abstract": "The Democrats aren’t radical, but Republicans are.",
+            "published_date": "2019-07-01",
+            "source": "The New York Times",
+            "id": 100000006590315,
+            "asset_id": 100000006590315,
+            "views": 19,
+            "des_facet": [
+                "FEDERAL TAXES (US)",
+                "PRESIDENTIAL ELECTION OF 2020",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "DEMOCRATIC PARTY",
+                "REPUBLICAN PARTY"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Trump supporters at a rally in Richmond, Ky. In 2017 the state received $40 billion more from the federal government than it paid in taxes.",
+                    "copyright": "Al Drago for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/opinion/01krugmanWeb/01krugmanWeb-square320.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/opinion/01krugmanWeb/01krugmanWeb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/opinion/01krugmanWeb/merlin_145289145_dd51f5a8-8372-435a-951d-98c1bbc860ae-articleInline.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/opinion/01krugmanWeb/merlin_145289145_dd51f5a8-8372-435a-951d-98c1bbc860ae-sfSpan.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/opinion/01krugmanWeb/merlin_145289145_dd51f5a8-8372-435a-951d-98c1bbc860ae-jumbo.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/opinion/01krugmanWeb/merlin_145289145_dd51f5a8-8372-435a-951d-98c1bbc860ae-superJumbo.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/opinion/01krugmanWeb/01krugmanWeb-square640.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/opinion/01krugmanWeb/01krugmanWeb-thumbLarge.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/opinion/01krugmanWeb/01krugmanWeb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/01/opinion/01krugmanWeb/01krugmanWeb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "url": "https://www.nytimes.com/2019/07/07/nyregion/jeffrey-epstein-sex-trafficking.html",
+            "adx_keywords": "Epstein, Jeffrey E (1953- );Women and Girls;Sex Crimes;Human Trafficking;Acosta, R Alexander;Sexual Harassment;Child Abuse and Neglect;Suits and Litigation (Civil);Federal Bureau of Investigation;Justice Department;Trump, Donald J;Florida;Upper East Side (Manhattan, NY);Giuffre, Virginia Roberts",
+            "column": null,
+            "section": "New York",
+            "byline": "By ALI WATKINS and VIVIAN WANG",
+            "type": "Article",
+            "title": "Jeffrey Epstein Is Accused of Luring Girls to His Manhattan Mansion and Abusing Them",
+            "abstract": "The billionaire financier is charged with running a sex-trafficking operation that brought dozens of girls as young as 14 to his opulent Upper East Side home.",
+            "published_date": "2019-07-07",
+            "source": "The New York Times",
+            "id": 100000006599858,
+            "asset_id": 100000006599858,
+            "views": 20,
+            "des_facet": [
+                "WOMEN AND GIRLS",
+                "CHILD ABUSE AND NEGLECT"
+            ],
+            "org_facet": [
+                "SEX CRIMES",
+                "HUMAN TRAFFICKING",
+                "SEXUAL HARASSMENT",
+                "SUITS AND LITIGATION (CIVIL)",
+                "FEDERAL BUREAU OF INVESTIGATION",
+                "JUSTICE DEPARTMENT"
+            ],
+            "per_facet": [
+                "EPSTEIN, JEFFREY E (1953- )",
+                "ACOSTA, R ALEXANDER",
+                "TRUMP, DONALD J",
+                "GIUFFRE, VIRGINIA ROBERTS"
+            ],
+            "geo_facet": [
+                "FLORIDA",
+                "UPPER EAST SIDE (MANHATTAN, NY)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A neighbor near the East 71st Street home took a photograph on Saturday, showing F.B.I. agents and New York Police Department officers forcing open the mansion doors.",
+                    "copyright": "Steven M. L. Aronson",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/08/nyregion/07mansion2/07mansion2-square320-v6.jpg",
+                            "format": "square320",
+                            "height": 320,
+                            "width": 320
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/08/nyregion/07mansion2/07mansion2-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/08/nyregion/07mansion2/07mansion2-articleInline-v6.jpg",
+                            "format": "Normal",
+                            "height": 127,
+                            "width": 190
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/08/nyregion/07mansion2/07mansion2-sfSpan-v4.jpg",
+                            "format": "Large",
+                            "height": 263,
+                            "width": 395
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/08/nyregion/07mansion2/07mansion2-jumbo-v5.jpg",
+                            "format": "Jumbo",
+                            "height": 683,
+                            "width": 1024
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/08/nyregion/07mansion2/07mansion2-superJumbo-v5.jpg",
+                            "format": "superJumbo",
+                            "height": 1365,
+                            "width": 2048
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/08/nyregion/07mansion2/07mansion2-square640-v6.jpg",
+                            "format": "square640",
+                            "height": 640,
+                            "width": 640
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/08/nyregion/07mansion2/07mansion2-thumbLarge-v3.jpg",
+                            "format": "Large Thumbnail",
+                            "height": 150,
+                            "width": 150
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/08/nyregion/07mansion2/07mansion2-mediumThreeByTwo210-v6.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/07/08/nyregion/07mansion2/07mansion2-mediumThreeByTwo440-v6.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleItem matches snapshot 1`] = `
+<TouchableWithoutFeedback>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 0.2,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "backgroundColor": "#969696",
+            "borderRadius": 20,
+            "height": 40,
+            "width": 40,
+          }
+        }
+      />
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 0.6,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text
+        ellipsizeMode="tail"
+        numberOfLines={2}
+        style={
+          Object {
+            "color": "#000000",
+            "fontSize": 14,
+            "fontWeight": "500",
+            "textAlign": "left",
+          }
+        }
+      />
+      <Text
+        style={
+          Object {
+            "color": "#9e9e9e",
+            "fontSize": 12,
+            "fontWeight": "400",
+            "marginTop": 10,
+            "textAlign": "left",
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "alignItems": "center",
+            "flexDirection": "row",
+            "justifyContent": "flex-end",
+            "marginTop": 2,
+          }
+        }
+      >
+        <Icon
+          allowFontScaling={false}
+          color="#969696"
+          name="calendar"
+          size={10}
+        />
+        <Text
+          style={
+            Object {
+              "color": "#9e9e9e",
+              "fontSize": 10,
+              "fontWeight": "400",
+              "marginLeft": 5,
+              "textAlign": "right",
+            }
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "flex": 0.2,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Icon
+        allowFontScaling={false}
+        color="#c9c7c7"
+        name="chevron-right"
+        size={15}
+      />
+    </View>
+  </View>
+</TouchableWithoutFeedback>
+`;

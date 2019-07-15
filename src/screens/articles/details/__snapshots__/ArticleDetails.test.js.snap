@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleDetails matches snapshot 1`] = `
+<SafeAreaView
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <WebView
+    cacheEnabled={true}
+    originWhitelist={
+      Array [
+        "http://*",
+        "https://*",
+      ]
+    }
+    renderError={[Function]}
+    renderLoading={[Function]}
+    source={
+      Object {
+        "uri": Object {
+          "articleUrl": "https://www.nytimes.com/interactive/2019/07/03/us/us-citizenship-test-quiz.html ",
+        },
+      }
+    }
+    startInLoadingState={true}
+    testID="articleDetailsScreenWebview"
+    useSharedProcessPool={true}
+    useWebKit={true}
+  />
+</SafeAreaView>
+`;
